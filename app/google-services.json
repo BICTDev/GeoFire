@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385923834532",
+    "firebase_url": "https://geofire-3f8c3.firebaseio.com",
+    "project_id": "geofire-3f8c3",
+    "storage_bucket": "geofire-3f8c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385923834532:android:354963ba7e4adb93",
+        "android_client_info": {
+          "package_name": "com.better.bcemprender.androidgeofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385923834532-hgu3lh1vtkjpg08nj201c25srlrpkv1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.better.bcemprender.androidgeofire",
+            "certificate_hash": "d472f26061c2ef310dd0259486b001dfb0184d73"
+          }
+        },
+        {
+          "client_id": "385923834532-2nvta6pd6sipohpovg22fnba95toiimi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7X_05SkByFxY94LYP9cwSqN_r3vFauCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385923834532-2nvta6pd6sipohpovg22fnba95toiimi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
